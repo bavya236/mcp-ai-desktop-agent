@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "desktop-automation": {
+      "command": "python",
+      "args": [
+        "c:/Users/bavya/OneDrive/Documents/mcp_new/backend/mcp_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "c:/Users/bavya/OneDrive/Documents/mcp_new"
+      }
+    }
+  }
+}
